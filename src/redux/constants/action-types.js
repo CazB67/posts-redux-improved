@@ -1,0 +1,4 @@
+export const SETTING_NAME = "SETTING_NAME";
+export const CHANGE_COLOR = "CHANGE_COLOR";
+export const DATA_LOADED = "DATA_LOADED";
+export const LOADING_POSTS = "LOADING_POSTS";
